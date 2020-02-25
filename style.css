@@ -28,7 +28,7 @@
 }
 
 body {
-    background-image: url('./bg.jpg');
+    background-image: url('https://raw.githubusercontent.com/mdimitrov94/rocket/master/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -56,7 +56,7 @@ body {
 .ship-top {
     position: absolute;
     bottom: 0%;
-    background-image: url('./rocket.png');
+    background-image: url('https://raw.githubusercontent.com/mdimitrov94/rocket/master/rocket.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 15em;
@@ -66,7 +66,7 @@ body {
     display: none;
     position: absolute;
     top: 100%;
-    background-image: url('./thrust.png');
+    background-image: url('https://raw.githubusercontent.com/mdimitrov94/rocket/master/thrust.png');
     background-size: cover;
     height: 20em;
     width: 10em;
